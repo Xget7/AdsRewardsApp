@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">GeneradorDeDiamantes</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- -
+        This is an ad unit ID for an interstitial test ad. Replace with your own interstitial ad unit id.
+        For more information, see https://support.google.com/admob/answer/3052638
+    <!- -->
+
+    <string name="googleSigInId">75729129354–2kf2bh554c18k924t1jho2f11en7stpq.apps.googleusercontent.com</string>
+
+    <!-- Test ads -->
+    <string name="bannerTest_ad_unit_id">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="viedeoRewardTest_ad_unit_id">ca-app-pub-3940256099942544/5224354917</string>
+
+    <!-- Real id
+    Banner: ca-app-pub-4267620051194085/5149566893
+    VideroReward: ca-app-pub-4267620051194085/7054240152
+    -->
+    <string name="banner_ad_unit_id">ca-app-pub-4267620051194085/5149566893</string>
+    <string name="viedeoReward_ad_unit_id">ca-app-pub-4267620051194085/7054240152</string>
+    <string name="inertialAd">ca-app-pub-4267620051194085/9130798640</string>
+
+    <string name="ad_unit_banner_1">ca-app-pub-3940256099942544/1033173712</string>
+    <string name="title_activity_main2">MainActivity2</string>
+
+
+    <string name="interstitial_ad_sample">Interstitial Ad Sample</string>
+    <string name="start_level">Level 1</string>
+    <string name="next_level">Next Level</string>
+    <string name="default_web_client_idd">75729129354-t352mpc1orii815aqtrfo5324r0odsji.apps.googleusercontent.com</string>
+</resources>

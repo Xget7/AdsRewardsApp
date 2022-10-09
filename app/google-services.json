@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "75729129354",
+    "firebase_url": "https://diamantesfreefire-66d41-default-rtdb.firebaseio.com",
+    "project_id": "diamantesfreefire-66d41",
+    "storage_bucket": "diamantesfreefire-66d41.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:75729129354:android:63ce4c12668a502eee4273",
+        "android_client_info": {
+          "package_name": "com.generador.de.diamantes.fire.hcgd"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "75729129354-t352mpc1orii815aqtrfo5324r0odsji.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrUPghrJblXuYuk30yUoxUkhsdYAxAfEU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "75729129354-t352mpc1orii815aqtrfo5324r0odsji.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
